@@ -9,3 +9,5 @@ else
     x -= 10;
 }
 Console.WriteLine($"Результат: {x}");
+
+// coments)))
